@@ -1,4 +1,4 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
+![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
 <h3 align="center">A passionate frontend, backend & app developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
